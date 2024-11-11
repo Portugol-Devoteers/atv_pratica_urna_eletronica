@@ -1,2 +1,5 @@
-# atv_pratica_urna_eletronica
-interface gráfica utilizando o TKINTER, simulando uma urna eletrônica
+# ATIVIDADE PRÁTICA URNA ELETRÔNICA
+
+## INTEGRANTES
+### Felipe Barbosa dos Santos - 4324223 (Felipe1501)
+### Lucas Carmona Neto - 
