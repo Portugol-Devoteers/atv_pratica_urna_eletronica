@@ -2,4 +2,7 @@
 
 ## INTEGRANTES
 ### Felipe Barbosa dos Santos - 4324223 (Felipe1501)
-### Lucas Carmona Neto - 
+### JOÃO GABRIEL HENRIQUES CARDOSO - 6100450 (joaocatal4o)
+### LUCAS CARMONA NETO - 8342055 (lucascarmon4)
+### LUCAS CERQUEIRA GALVÃO - 4477944 (LucasCerqueiraGalvao)
+### PEDRO HENRIQUE BONIFACIO MARTINS - 2503234 (pedrobonifacio)
