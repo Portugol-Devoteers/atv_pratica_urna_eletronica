@@ -1,5 +1,6 @@
 # ATIVIDADE PRÁTICA URNA ELETRÔNICA
 
+### Eleitores pré-setados: 123, 456, 789, 101, 102, 103
 ### Candidatos pré-setados: 12, 45, 78, 90, 13, 46, 79, 91, 14
 
 ## INTEGRANTES
